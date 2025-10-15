@@ -1,3 +1,16 @@
+# LLM-Driven Synthetic Sensor Traffic Generation for 6G Networks in Smart Homes
+
+By leveraging Large Language Models (LLMs) or other generative approaches to synthesize both realistic normal and controlled malicious 6G traffic, researchers can obtain a critical tool for evaluating physical layer security (PLS) mechanisms. In the absence of real 6G infrastructures, synthetic traffic enables systematic testing of PLS algorithms against statistical variability, extreme scenarios, and hidden or perturbed patterns. Synthetic datasets: 
+
+- Provide large-scale, labeled data without privacy risks, thereby facilitating the training and cross-comparison of machine learning–based PLS techniques (e.g., physical-layer authentication, anomaly detection).
+
+- Allow controlled replication of specific attack scenarios such as spoofing, replay, denial-of-service (DoS), jamming, eavesdropping, and novel threats related to THz or reconfigurable intelligent surface (RIS) channels.
+
+- Ensure reproducible and shareable evaluation pipelines that increase the reliability of security assessments.
+
+Moreover, the AI-driven, multi-layer, and space–air–ground integrated architecture of 6G will inevitably introduce new attack surfaces; beyond conventional threats (e.g., spoofing, replay, DDoS, jamming, passive eavesdropping), adversarial manipulations targeting RIS configurations or THz propagation are also anticipated. Therefore, evaluating PLS solutions under both benign and adversarial synthetic traffic is indispensable. Ultimately, LLM-driven, scenario-specific traffic generation offers a practical pathway to bridge the gap between theory and implementation in PLS research, enabling early-stage measurement and improvement of the trustworthiness and resilience of future 6G networks.
+
+
 # Smart Home Devices (Current and Future 6G-Enabled Ecosystem) and Room Topology
 
 To simulate realistic Internet of Things (IoT) communication and device interaction, we designed a smart home environment represented by a 3D-rendered apartment layout. 
